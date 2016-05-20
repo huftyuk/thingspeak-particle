@@ -1,7 +1,7 @@
 {
-  "name": "ThingSpeak",
+  "name": "ThingSpeak_SH",
   "author": "MathWorks <thingspeak@mathworks.com>",
   "license": "See associated license file",
-  "version": "1.1.1",
+  "version": "1.1.1.SH",
   "description": "ThingSpeak Communication Library for Particle Core, Photon, and Electron written by the ThingSpeak development team."
 }
