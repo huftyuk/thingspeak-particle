@@ -115,7 +115,7 @@
 #define FIELDNUM_MAX 8
 #define FIELDLENGTH_MAX 255  // Max length for a field in ThingSpeak is 255 bytes (UTF-8)
 
-#define TIMEOUT_MS_SERVERRESPONSE 5000  // Wait up to five seconds for server to respond
+#define TIMEOUT_MS_SERVERRESPONSE 1500  // Wait up to five seconds for server to respond
 
 #define OK_SUCCESS              200     // OK / Success
 #define ERR_BADAPIKEY           400     // Incorrect API key (or invalid ThingSpeak server address)
